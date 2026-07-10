@@ -1,12 +1,12 @@
-ShadowFox AI/ML Internship Projects
+<h1>ShadowFox AI/ML Internship Projects</h1>
 
-Welcome to my AI/ML internship repository! 👋
+<h3>Welcome to my AI/ML internship repository!</h3> 
 
-This repository contains the projects I completed during my AI/ML Virtual Internship at ShadowFox. Each project focuses on solving a real-world problem using Python and Machine Learning techniques.
+<b>This repository contains the projects I completed during my AI/ML Virtual Internship at ShadowFox. Each project focuses on solving a real-world problem using Python and Machine Learning techniques.</b>
 
-📚 Projects
+Projects
 
-📌 Project 1 — AI Autocorrect Keyboard using N-Gram Language Model
+Project 1 — AI Autocorrect Keyboard using N-Gram Language Model
 
 Overview
 
@@ -18,7 +18,7 @@ Text preprocessing
 N-Gram language modeling
 Context-based word suggestions
 
-📌 Project 2 — Loan Approval Prediction using Machine Learning
+Project 2 — Loan Approval Prediction using Machine Learning
 
 Overview
 
