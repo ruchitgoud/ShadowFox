@@ -38,18 +38,20 @@ Loan approval prediction
 
 ---
 
-#📂 Repository Structure
-''' ShadowFox-AI-ML-Internship/
+## Repository Structure
+
+```
+ShadowFox-AI-ML-Internship/
 │
 ├── Project-1-Autocorrect-Keyboard-System/
-│   ├── download.py
-│   ├── autocorrect.py
-│   └── README.md
+│   ├── autocorrect.py            
+│   ├── download.py       
+│   └── README.md           
 │
 ├── Project-2-Loan-Approval-Prediction/
-│   ├── dataset
-│   ├── Loan-Approval.pynb
+│   ├── dataset           
+│   ├── Loan-Approval-Prediciton.pynb
 │   └── README.md
 │
-└── README.md
-'''
+└── README.md  
+```
