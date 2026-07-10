@@ -12,24 +12,15 @@ An NLP-based autocorrect and next-word prediction system built with Python. The 
 ## Project Structure
 
 ```
-Project-1/
+ShadowFox/Autocorrect-Keyboard-System
 ├── autocorrect.py       # Main application (autocorrect + prediction)
 ├── download_data.py     # Script to download training data from Project Gutenberg
-├── training_data/       # Training corpus (downloaded .txt files)
-│   ├── alice_in_wonderland.txt
-│   ├── dracula.txt
-│   ├── frankenstein.txt
-│   ├── great_expectations.txt
-│   ├── moby_dick.txt
-│   ├── pride_and_prejudice.txt
-│   ├── tale_of_two_cities.txt
-│   └── war_of_the_worlds.txt
 └── README.md
 ```
 
 ## How It Works
 
-### Autocorrect (Edit Distance)
+### Autocorrect 
 
 When a user types a misspelled word, the system:
 
