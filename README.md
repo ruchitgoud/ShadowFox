@@ -9,7 +9,7 @@ Each project focuses on solving a real-world problem using Python and Machine Le
 
 <h2>Projects</h2>
 
-<h3>Project 1 — AI Autocorrect Keyboard using N-Gram Language Model</h3>
+<h3>1 — Autocorrect Keyboard using N-Gram Language Model</h3>
 
 Overview
 
@@ -23,7 +23,7 @@ Context-based word suggestions
 
 ---
 
-<h3>Project 2 — Loan Approval Prediction using Machine Learning</h3>
+<h3>2 — Loan Approval Prediction using Machine Learning</h3>
 
 Overview
 
